@@ -41,7 +41,7 @@ Adoro aprender, enfrentar desafios e transformar códigos em soluções incríve
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23F7A500?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-%2300599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell_Script-%232F5B6D?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />

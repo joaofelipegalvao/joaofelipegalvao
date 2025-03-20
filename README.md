@@ -21,10 +21,7 @@
 </div>
  
 
-### 🧑🏻‍💻 Sobre mim:
-<p>Meu nome é João Felipe, tenho 27 anos, sou do interior do Rio de Janeiro e apaixonado por tecnologia!<br>
-Adoro aprender, enfrentar desafios e transformar códigos em soluções incríveis! 🚀❤️</p><br/>
-
+ <p>🌍 Sou de Silva Jardim - RJ, Brasil</p>
  <p>🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong></p>
  <p>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software</p>
  <p>🎯 Foco em HTML, CSS, JavaScript e Java</p>

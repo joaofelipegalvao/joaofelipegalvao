@@ -26,9 +26,15 @@
 Adoro aprender, enfrentar desafios e transformar códigos em soluções incríveis! 🚀❤️</p><br/>
 
  <p>🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong></p>
- <p>💻 Sou participante do programa <strong>Oracle Next Education (ONE)</strong></p>
- <p>🚀 Apaixonado por tecnologia e em constante aprendizado</p>
- <p>📈 Sempre em busca de novos desafios</p>
+ <p>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software</p>
+ <p>🎯 Foco em HTML, CSS, JavaScript e Java</p>
+ <p>✨ Criando projetos para aprimorar minhas habilidades</p>
+
+ ##
+
+###  Bootcamps e Programas:
+<p>📊 <strong>&lt;Hello, ONE!&gt;</strong> - Programa da Oracle + Alura com formação em Java Backend</p>
+<p>☕ <strong>Bootcamp Java Cloud Native</strong> - Formação em desenvolvimento cloud native com Java pela Dio</p>
 
 ##
 

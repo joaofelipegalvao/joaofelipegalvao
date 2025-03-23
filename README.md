@@ -35,7 +35,7 @@
 
 ##
 
-### 🛠️ Linguagens: 
+### 💻 Linguagens: 
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title = "HTML5"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title = "CSS3"/></code>
@@ -48,7 +48,7 @@
 
 ##
 
-### 🛠️ Editores:
+### 📝 Editores:
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40" title = "NEOVIM"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="40" height="40" title = "VIM"/></code>
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40" title = "INTELLIJ"/></code>

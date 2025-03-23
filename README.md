@@ -35,7 +35,7 @@
 
 ##
 
-### 💻 Linguagens: 
+### Linguagens
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title = "HTML5"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title = "CSS3"/></code>
@@ -48,7 +48,7 @@
 
 ##
 
-### 📝 Editores:
+### Editores
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40" title = "NEOVIM"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="40" height="40" title = "VIM"/></code>
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40" title = "INTELLIJ"/></code>
@@ -56,14 +56,14 @@
 
 ##
 
-### 🛠️ Ferramentas:
+### Ferramentas
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title = "GIT"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" title = "LINUX"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" title = "DOCKER"/></code>
 
           
 ##
-### 📊 Estatísticas do GitHub:
+### Estatísticas do GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=joaofelipegalvao&count_private=true&show_icons=true&theme=tokyonight" alt="Joao Felipe GitHub Stats" style="max-width: 100%;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipegalvao&hide=php&layout=compact&theme=tokyonight" alt="Top Langs" style="max-width: 100%;" />
 ##

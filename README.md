@@ -21,17 +21,17 @@
 </div>
  
 
- <p>🌍 Sou de Silva Jardim - RJ, Brasil</p>
- <p>🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong></p>
- <p>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software</p>
- <p>🎯 Foco em HTML, CSS, JavaScript e Java</p>
- <p>✨ Criando projetos para aprimorar minhas habilidades</p>
+ 🌍 Sou de Silva Jardim - RJ, Brasil <br>
+ 🎓 Cursando **Análise e Desenvolvimento de Sistemas** <br>
+ ⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software <br>
+ 🎯 Foco em HTML, CSS, JavaScript e Java <br>
+ ✨ Criando projetos para aprimorar minhas habilidades
 
  ##
 
 ###  Bootcamps e Programas:
-<p>📊 <strong>&lt;Hello, ONE!&gt;</strong> - Programa da Oracle + Alura com formação em Java Backend</p>
-<p>☕ <strong>Bootcamp Java Cloud Native</strong> - Formação em desenvolvimento cloud native com Java pela <a href="https://www.dio.me/" rel="nofollow">DIO</a></p>
+📊 **<Hello, ONE!>** - Programa da Oracle + Alura com formação em Java Backend <br>
+☕ **Bootcamp Java Cloud Native** - Formação em desenvolvimento cloud native com Java pela <a href="https://www.dio.me/" rel="nofollow">DIO</a>
 
 ##
 

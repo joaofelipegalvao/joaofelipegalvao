@@ -32,35 +32,6 @@
 ###  Bootcamps e Programas
 📊 **<Hello, ONE!>** - Programa da Oracle + Alura com formação em Java Backend <br>
 ☕ **Bootcamp Java Cloud Native** - Formação em desenvolvimento cloud native com Java pela <a href="https://www.dio.me/" rel="nofollow">DIO</a>
-
-##
-
-### Linguagens
-
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title = "HTML5"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title = "CSS3"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" title = "JAVASCRIPT"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" title = "JAVA"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="40" height="40" title = "LUA"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" title = "C"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" height="45" title = "SHELL SCRIPT"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="40" height="40" title = "MARKDOWN"/></code>
-
-##
-
-### Editores
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40" title = "NEOVIM"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="40" height="40" title = "VIM"/></code>
-<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40" title = "INTELLIJ"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" widht="40" height="40" title = "VSCODE"/></code>
-
-##
-
-### Ferramentas
-<code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title = "GIT"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" title = "LINUX"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" title = "DOCKER"/></code>
-
           
 ##
 ### Estatísticas do GitHub

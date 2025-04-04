@@ -70,4 +70,12 @@
 
 ##
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+##
+
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/joaofelipe021) ou pelo [Linkedin](https://www.linkedin.com/in/joaofelipegalv%C3%A3o021/). Eu demoro às vezes para responder, mas sou legal, prometo 🙃.

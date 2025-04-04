@@ -2,17 +2,17 @@
 <h3 align="left">Hello, World! 👋</h1> <br>
 
 
-- 🌍 Silva Jardim - RJ, Brasil <br>
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
-- ⚡ Aspirante a desenvolvedor Full-Stack com interesse em Desenvolvimento de Software <br>
-- ✨ Criando projetos para aprimorar minhas habilidades
+ 🌍 Silva Jardim - RJ, Brasil <br>
+ 🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
+ ⚡ Aspirante a desenvolvedor Full-Stack com interesse em Desenvolvimento de Software <br>
+ ✨ Criando projetos para aprimorar minhas habilidades
  
 ##
 
 ####  Bootcamps e Programas
 
-- ☕ **<Hello, ONE!>** - Programa da Oracle + Alura com formação em Java Backend <br>
-- 🌩️ **Bootcamp Java Cloud Native** - Formação em desenvolvimento cloud native com Java pela <a href="https://www.dio.me/" rel="nofollow">DIO</a>
+ ☕ **<Hello, ONE!>** - Programa da Oracle + Alura com formação em Java Backend <br>
+ 🌩️ **Bootcamp Java Cloud Native** - Formação em desenvolvimento cloud native com Java pela <a href="https://www.dio.me/" rel="nofollow">DIO</a>
  
 ##
 

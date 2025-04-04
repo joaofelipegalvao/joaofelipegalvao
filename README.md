@@ -32,14 +32,14 @@
 </div>
  
 
-<h2 align="left">👋 Olá, seja bem-vindo(a)</h1> 
+<h3 align="left">Hello, World! 👋</h1> 
 
 
  <div align="center">
  
 
-  <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC47F7&background=FF56FF00&center=true&width=435&lines=Aspiring+Back-end+Developer+%F0%9F%9A%80" /></a>
+ <!-- <a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC47F7&background=FF56FF00&center=true&width=435&lines=Aspiring+Back-end+Developer+%F0%9F%9A%80" /></a> -->
  
 
   <br>
@@ -57,14 +57,14 @@
 
  ##
 
-###  Bootcamps e Programas
+####  Bootcamps e Programas
 
 ☕ **<Hello, ONE!>** - Programa da Oracle + Alura com formação em Java Backend <br>
 🌩️ **Bootcamp Java Cloud Native** - Formação em desenvolvimento cloud native com Java pela <a href="https://www.dio.me/" rel="nofollow">DIO</a>
  
 ##
 
-### Estatísticas do GitHub
+#### Estatísticas do GitHub
  
 <img src="https://github-readme-stats.vercel.app/api?username=joaofelipegalvao&count_private=true&show_icons=true&theme=tokyonight" alt="Joao Felipe GitHub Stats" style="max-width: 100%;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipegalvao&hide=php&layout=compact&theme=tokyonight" alt="Top Langs" style="max-width: 100%;" />
 

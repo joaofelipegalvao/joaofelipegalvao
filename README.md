@@ -32,7 +32,7 @@
 </div>
  
 
-<h1 align="left">👋 Olá, seja bem-vindo(a)</h1> 
+<h3 align="left">👋 Olá, seja bem-vindo(a)</h1> 
 
 
  <div align="center">
@@ -44,12 +44,9 @@
 
   <br>
  
-
   <!-- <img width="800" src="https://i.ibb.co/T4zHmcK/eu.jpg" /> -->
  
-
 </div> 
- 
 
 🌍 Silva Jardim - RJ, Brasil <br>
 🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
@@ -60,7 +57,7 @@
 
  ##
 
-###  Bootcamps e Programas
+####  Bootcamps e Programas
 
 ☕ **<Hello, ONE!>** - Programa da Oracle + Alura com formação em Java Backend <br>
 🌩️ **Bootcamp Java Cloud Native** - Formação em desenvolvimento cloud native com Java pela <a href="https://www.dio.me/" rel="nofollow">DIO</a>
@@ -68,7 +65,7 @@
 
 ##
 
-### Estatísticas do GitHub
+#### Estatísticas do GitHub
 <img src="https://github-readme-stats.vercel.app/api?username=joaofelipegalvao&count_private=true&show_icons=true&theme=tokyonight" alt="Joao Felipe GitHub Stats" style="max-width: 100%;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipegalvao&hide=php&layout=compact&theme=tokyonight" alt="Top Langs" style="max-width: 100%;" />
  
 ##

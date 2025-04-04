@@ -28,7 +28,10 @@ jobs:
           user: joaofelipegalvao
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
           config_timezone: America/Sao_Paulo
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5

@@ -5,7 +5,6 @@
 - 🌍 Silva Jardim - RJ, Brasil <br>
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
 - ⚡ Aspirante a desenvolvedor Back-end com interesse em Desenvolvimento de Software <br>
-- ☕ Foco em Java <br>
 - ✨ Criando projetos para aprimorar minhas habilidades
  
 ##

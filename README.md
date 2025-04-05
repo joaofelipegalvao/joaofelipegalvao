@@ -1,4 +1,12 @@
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/joaofelipegalvao">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://pt.stackoverflow.com/users/425667/joao-felipe">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+  </a>
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</div>
 <h3 align="left">Hello, World! 👋</h1> <br>
 
 
@@ -6,6 +14,7 @@
  🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
  ⚡ Aspirante a Desenvolvedor Full-Stack (Web & Software)<br>
  ✨ Construindo projetos práticos para dominar as tecnologias
+
  
 ##
 

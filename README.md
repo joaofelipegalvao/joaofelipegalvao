@@ -4,8 +4,8 @@
 
  🌍 Silva Jardim - RJ, Brasil <br>
  🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
- ⚡ Aspirante a Desenvolvedor Back-end Java <br>
- ✨ Criando projetos para aprimorar minhas habilidades
+ ⚡ Aspirante a Desenvolvedor Full-Stack (Web & Software)<br>
+ ✨ Construindo projetos práticos para dominar as tecnologias
  
 ##
 

@@ -7,8 +7,7 @@
   </a>
 </div>
 
-### Hello, World! 👋
-
+## Hello, World! 👋
 
  🌍 Silva Jardim - RJ, Brasil <br>
  🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
@@ -35,17 +34,13 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-     
-##
-
-####  Bootcamps e Programas
+##  Bootcamps e Programas
 
  ☕ **<Hello, ONE!>** - Programa da Oracle + Alura com formação em Java Backend <br>
  🌩️ **Bootcamp Java Cloud Native** - Formação em desenvolvimento cloud native com Java pela <a href="https://www.dio.me/" rel="nofollow">DIO</a>
- 
-##
 
-#### Estatísticas do GitHub
+
+## Estatísticas do GitHub
 
 <a href="https://github.com/joaofelipegalvao">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaofelipegalvao&show_icons=true&count_private=true&line_height=27&theme=tokyonight" />

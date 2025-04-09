@@ -15,8 +15,6 @@
  ⚡ Aspirante a Desenvolvedor Full-Stack (Web & Software)<br>
  ✨ Construindo projetos práticos para dominar as tecnologias
 
- 
-##
 ## Badges
 #### Linguagens
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

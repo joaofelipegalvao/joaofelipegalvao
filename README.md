@@ -1,5 +1,6 @@
 ## Hi there
 
-![Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
+<div align="center">
+  <img height="180em" src="./profile/stats.svg"/>
+  <img height="180em" src="./profile/top-langs.svg"/>
+</div>

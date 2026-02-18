@@ -2,16 +2,9 @@
 
 # João Felipe Galvão
 
-Backend Developer in training, building robust systems with Java and Rust.
+Backend Developer focused on Java and Rust, building robust and well-architected systems.
 
 📍 Silva Jardim, Rio de Janeiro, Brazil
-
-<div align="center">
-  <img height="180em" src="./profile/stats.svg"/>
-  <img height="180em" src="./profile/top-langs.svg"/>
-</div>
-
----
 
 ## 👋 About Me
 
@@ -32,6 +25,38 @@ I believe in the power of shared knowledge: clean code, clear documentation, and
 * 📚 **Architecture**: SOLID, MVC, Repository patterns, microservices, and clean architectures.
 
 📖 Currently deepening: Spring Security, async/await in Rust, and microservices communication.
+
+## 💼 Experience & Tech Stack
+
+#### Programming Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnubash&logoColor=white)
+
+#### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=flat&logo=rust&logoColor=white)
+![SQLx](https://img.shields.io/badge/SQLx-003B57?style=flat)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+#### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+#### Environment & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![tmux](https://img.shields.io/badge/tmux-000000?style=flat&logo=tmux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+
 
 ## 🚀 Projects
 

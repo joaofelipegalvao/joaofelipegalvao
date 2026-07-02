@@ -2,7 +2,7 @@
 
 # João Felipe Galvão
 
-Desenvolvedor Backend focado em Java e Rust, construindo sistemas robustos e bem arquitetados.
+Desenvolvedor Backend focado em Java, explorando Rust para ferramentas de alta performance.
 
 📍 Silva Jardim, Rio de Janeiro, Brasil
 
@@ -10,19 +10,19 @@ Desenvolvedor Backend focado em Java e Rust, construindo sistemas robustos e bem
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (4º semestre - Estácio) e desenvolvedor backend apaixonado por transformar aprendizado em código real. Minha jornada é focada em construir projetos open-source que resolvem problemas reais, aplicando boas práticas de engenharia de software desde o início.
 
-Tenho experiência prática em **Desenvolvimento Backend** com Java e Spring Boot, **Bancos de Dados** relacionais e NoSQL, **Automação e Integrações** via scripts e APIs REST, e **Ambientes de E-Commerce**, onde lidei com sistemas em produção, correção de bugs e integração de APIs de pagamento.
+Tenho desenvolvido projetos backend utilizando Java e Spring Boot, aplicando conceitos de APIs REST, persistência de dados e boas práticas de arquitetura. Também exploro automação e integrações via scripts e APIs REST.
 
-Acredito no poder do conhecimento compartilhado: código limpo, documentação clara e soluções que podem ser úteis para outros desenvolvedores. Estou sempre aberto a colaborações e discussões sobre arquitetura de software e boas práticas.
+Valorizo uma base sólida em algoritmos, estruturas de dados e engenharia de software, acreditando que bons sistemas começam com bons fundamentos. Acredito no poder do conhecimento compartilhado: código limpo, documentação clara e soluções que podem ser úteis para outros desenvolvedores. Estou sempre aberto a colaborações e discussões sobre arquitetura de software e boas práticas.
 
 ## 🎯 Foco Atual
 
-* ☕ **Java & Spring Boot**: APIs REST, padrões de design, arquiteturas escaláveis, segurança com JWT.
-* 🦀 **Rust**: Ferramentas CLI performáticas, ownership, lifetimes e introdução a frameworks web (Actix/Axum).
+* ☕ **Java & Spring Boot**: APIs REST, JPA, PostgreSQL e fundamentos de arquitetura de software.
+* 🦀 **Rust**: explorando ownership, borrowing e desenvolvimento de ferramentas CLI.
 * 🗄️ **Bancos de Dados**: PostgreSQL, MySQL e MongoDB — modelagem, queries otimizadas e índices.
 * 🔄 **Automação**: Scripts Bash, workflows com N8N e integrações entre sistemas via APIs REST.
-* 🐳 **Docker & Cloud**: Containerização de aplicações e deploy em plataformas como Render e Railway.
-* 🧪 **Testes**: JUnit, Mockito, TDD e análise estática de código.
-* 📚 **Arquitetura**: Padrões SOLID, MVC, Repository, microsserviços e arquiteturas limpas.
+* 🐳 **Docker**: Containerização de aplicações.
+* 🧪 **Testes**: JUnit (em aprendizado).
+* 📚 **Arquitetura**: estudando SOLID, Repository Pattern e fundamentos de arquitetura de software.
 
 📖 Aprofundando agora: Spring Security, async/await em Rust e comunicação entre microsserviços.
 

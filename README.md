@@ -1,8 +1,8 @@
-<!-- [🇧🇷 Português](README.md) | 🇺🇸 English -->
-
 # João Felipe Galvão
 
 Desenvolvedor Backend focado em Java, explorando Rust para ferramentas de alta performance.
+
+🇧🇷 Português | [🇺🇸 English](README.en.md)
 
 📍 Silva Jardim, Rio de Janeiro, Brasil
 
